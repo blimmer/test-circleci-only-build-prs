@@ -1,0 +1,11 @@
+{
+  "name": "test-circleci-only-build-prs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ben Limmer <ben@benlimmer.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.3.0",
+  "scripts": {
+    "test": "sleep 10"
+  }
+}
